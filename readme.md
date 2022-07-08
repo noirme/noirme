@@ -1,3 +1,2 @@
 - Hi, I’m @noirme
-- Studying Software Engineering in college but also taking courses to specialize.
-- Here's some of my certificates -> 
+- Studying Software Engineering in college but also taking courses to specialize, such as Suporte em T.I do Google Specialization.
