@@ -1,13 +1,10 @@
 <div align="center">
 <h2 align="center">Hi, I'm noirme</h2>
-<h4 align="center">a software engineering student taking dev courses to specialize</h4>
-</div>
 
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+<div align = "center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Baskerville&color=FFFF00&size=25&lines=a+software+engineer+student)](https://git.io/typing-svg)
+
 <div align = "center">
   <h3>Some stats</h3>
 <p align="center">
