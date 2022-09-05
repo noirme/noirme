@@ -11,5 +11,8 @@
  </div>
  
 <a href="https://www.linkedin.com/in/emilly-t-144745244/">
-  <img align="left" alt="Apurv's LinkdeIN" width="20px" src="https://cdn-icons-png.flaticon.com/512/216/216508.png" />
+  <img align="left" alt="Apurv's LinkdeIN" width="22px" src="https://cdn-icons-png.flaticon.com/512/216/216508.png" />
+</a>
+<a href="https://steamcommunity.com/profiles/76561199100469131/">
+  <img align="left" alt="Apurv's LinkdeIN" width="22px" src="https://cdn-icons-png.flaticon.com/512/220/220608.png" />
 </a>
