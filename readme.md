@@ -10,6 +10,8 @@
 <img align="center" top="150" height="150" width="200" alt="GIF" src="https://i.pinimg.com/originals/eb/de/5f/ebde5f53c272b9111b40cc210a53dc64.gif">
  </div>
  
+ ![Spotify](https://spotify-eight-flame.vercel.app/api/now-playing?format=svg)
+ 
 <a href="https://www.linkedin.com/in/emilly-t-144745244/">
   <img align="left" alt="Apurv's LinkdeIN" width="22px" src="https://cdn-icons-png.flaticon.com/512/216/216508.png" />
 </a>
@@ -17,6 +19,4 @@
   <img align="left" alt="Apurv's LinkdeIN" width="22px" src="https://cdn-icons-png.flaticon.com/512/220/220608.png" />
 </a>
 
-## <a href="https://vercel.app">
-  ## <img src="https://spotify-eight-flame.vercel.app/api/now-playing" width="340" alt="Now Playing">
-## </a>
+
