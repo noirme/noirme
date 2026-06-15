@@ -3,7 +3,7 @@
 
 <div align = "center">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Baskerville&color=FFFF00&size=22&lines=a+software+engineer+graduate;always+learning+new+stuff+:D;looking+foward+for+my+first+job)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Baskerville&color=FFFF00&size=22&lines=a+software+engineer+graduate;always+learning+new+stuff+:D;I'm+very+into+cybersecurity!)](https://git.io/typing-svg)
 
 
 <div>
