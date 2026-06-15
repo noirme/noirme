@@ -16,3 +16,10 @@
 <a href="https://steamcommunity.com/profiles/76561199100469131/">
   <img align="left" alt="Apurv's LinkdeIN" width="22px" src="https://cdn-icons-png.flaticon.com/512/220/220608.png" />
 </a>
+
+<a href="https://vercel.app">
+   <img src="https://spotify-eight-flame.vercel.app/api/now-playing" width="340" alt="Now Playing">
+</a>
+
+
+ 
